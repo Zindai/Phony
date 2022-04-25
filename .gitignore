@@ -3,5 +3,14 @@
 
 *.asv
 *.bmp
+*.aifc
+*.aiff
+*.aif
+*.au
+*.flac
+*.ogg
+*.opus
 *.wav
 *.mp3
+*.m4a
+*.mp4
