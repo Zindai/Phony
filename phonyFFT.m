@@ -1,4 +1,6 @@
 function out = phonyFFT(in)
+%Returns the fast Fourier transform of input (in). Input needs to have a length of 2^n.
+%   Detailed explanation goes here
     n = length(in);
     w = exp(2*pi*1i/n);
     if (n == 1)
